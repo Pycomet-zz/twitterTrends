@@ -21,7 +21,7 @@ def get_started(msg):
             f"""
     {each}
 
-    By Twitter Trends
+📢  Twitter Trends @twittertrends
             """
         )
 
